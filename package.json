@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gulp": "^5.0.0",
+    "startbootstrap-resume": "^7.0.6"
+  }
+}
